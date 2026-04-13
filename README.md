@@ -1,4 +1,4 @@
-# 🎤 Voice-Controlled Local AI Agent
+# 🔊 EchoMemo: Voice-Controlled Local AI Agent🎵
 
 A fully local voice agent that accepts audio input (microphone or file upload), transcribes it using Whisper, classifies the intent using LLaMA 3 (via Ollama), executes the appropriate tool, and displays the full pipeline in a Streamlit UI — all running on your local machine with no cloud API keys required.
 
